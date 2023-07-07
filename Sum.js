@@ -4,4 +4,4 @@ const Sum = (a, b) => {
  return a + b;
 }
 
-console.log("The sum of 2dddddddddd"+ Sum(a, b));
+console.log("The sum of 2 numbers is"+ Sum(a, b));
